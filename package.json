@@ -1,0 +1,19 @@
+{
+  "name": "consumo-api-rest-javascript",
+  "version": "1.0.0",
+  "description": "Curso practico de consumo de API rest con Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorHugoCruz/consumo-api-rest-javascript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VictorHugoCruz/consumo-api-rest-javascript/issues"
+  },
+  "homepage": "https://github.com/VictorHugoCruz/consumo-api-rest-javascript#readme"
+}
